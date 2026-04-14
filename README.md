@@ -1,16 +1,25 @@
-## Hi there 👋
+# 👋 Hi there!
 
-<!--
-**ApoorvaG1512/ApoorvaG1512** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 About Me
+- 🎓 Computer Science Student
+- 💡 Interested in AI/ML & Web Development
+- 🌱 Currently learning Python & React
+## 🛠 Skills
+![C](https://img.shields.io/badge/C-grey)
+![C++](https://img.shields.io/badge/C++-blue)
+![Python](https://img.shields.io/badge/Python-yellow)
+![Java](https://img.shields.io/badge/Java-red)
+![HTML](https://img.shields.io/badge/HTML-orange)
+![CSS](https://img.shields.io/badge/CSS-blue)
+![JavaScript](https://img.shields.io/badge/JavaScript-yellow)
+![AI](https://img.shields.io/badge/AI-ML-green)
 
-Here are some ideas to get you started:
+## 📊 GitHub Stats
+![Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔥 Streak
+![Streak](https://streak-stats.demolab.com/?user=YOUR_USERNAME)
+
+## 📫 Connect with me
+https://www.linkedin.com/in/apoorva-g-795184338
+  
